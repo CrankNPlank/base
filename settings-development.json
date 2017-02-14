@@ -1,4 +1,15 @@
 {
   "public": {},
-  "private": {}
+  "private": {
+    "oAuth": {
+      "facebook": {
+        "appId": "710498785790453",
+        "secret": "b00559a34c4930c60340648ff54b6c78"
+      },
+      "google": {
+        "clientId": "",
+        "secret": ""
+      }
+    }
+  }
 }
